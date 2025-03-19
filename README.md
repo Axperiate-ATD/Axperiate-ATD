@@ -9,7 +9,7 @@ Currently the Co-Owner of Easarce studios<br>an roblox group that develops :<br>
 
 
 # 🔒 Progress
-Raise a Beluga = 100% <br>Astrot Tower defence = 38%<br>Strik lock = 0%
+Raise a Beluga = 100% 🟢<br>Astrot Tower defence = 38% 🟡<br>Strik lock = 0% 🟡
 
 # 📢 Announcements :
 NEW BLUE LOCK GAME IN DEVELOPMENT
