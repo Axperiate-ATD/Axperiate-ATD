@@ -1,7 +1,7 @@
 # 💫 About Me:
 Currently the Co-Owner of Easarce studios<br>an roblox group that develops :<br><br>- Raise a floppa<br>- Astrot Tower defence (MD)<br>- Strix lock
 
-<br>(and also forgot my password :P)
+<br>(forgot my password for an old account :P, so we're starting fresh again!)
 
 
 # 💻 Tech Stack:
