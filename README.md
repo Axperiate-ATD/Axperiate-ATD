@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/user-attachments/assets/2076f687-84df-43eb-ae7d-04ded6e40f63)
+
 
 # 💫 About Me :
 
@@ -24,3 +24,4 @@ NEW BLUE LOCK GAME IN DEVELOPMENT
 ![image2](https://github.com/user-attachments/assets/e7ae9a3e-53ec-4336-87f7-cc4c4ca5937c)
 
 # SINO PO SI Z?
+admin.
